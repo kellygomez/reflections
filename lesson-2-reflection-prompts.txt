@@ -23,3 +23,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	the pros is that can decide what is the final state of a field whe it was modified in both branches.
+	the cons is that it can not know if the is a part you want to have in the final one that wasn't on one of the branches. that's why git runs into conflict and you have to decide manually what to have for the finale ones
