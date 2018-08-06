@@ -12,8 +12,10 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	when you are not sure the changes done are diffinitive. the branches help to test really different changes to our code
 
 How do the diagrams help you visualize the branch structure?
+	the allow us to see what changes are going to affect to the different branches and let us see when is the last commit that affect this branch from the master one
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
